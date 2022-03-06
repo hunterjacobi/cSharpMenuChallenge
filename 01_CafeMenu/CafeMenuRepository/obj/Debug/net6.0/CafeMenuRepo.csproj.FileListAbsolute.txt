@@ -1,0 +1,12 @@
+/Users/guccigod/Documents/SD134ImmersionFT/Challenges/01_CafeMenu/01_CafeMenu/CafeMenuRepository/bin/Debug/net6.0/CafeMenuRepo.deps.json
+/Users/guccigod/Documents/SD134ImmersionFT/Challenges/01_CafeMenu/01_CafeMenu/CafeMenuRepository/bin/Debug/net6.0/CafeMenuRepo.dll
+/Users/guccigod/Documents/SD134ImmersionFT/Challenges/01_CafeMenu/01_CafeMenu/CafeMenuRepository/bin/Debug/net6.0/ref/CafeMenuRepo.dll
+/Users/guccigod/Documents/SD134ImmersionFT/Challenges/01_CafeMenu/01_CafeMenu/CafeMenuRepository/bin/Debug/net6.0/CafeMenuRepo.pdb
+/Users/guccigod/Documents/SD134ImmersionFT/Challenges/01_CafeMenu/01_CafeMenu/CafeMenuRepository/obj/Debug/net6.0/CafeMenuRepo.csproj.AssemblyReference.cache
+/Users/guccigod/Documents/SD134ImmersionFT/Challenges/01_CafeMenu/01_CafeMenu/CafeMenuRepository/obj/Debug/net6.0/CafeMenuRepo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guccigod/Documents/SD134ImmersionFT/Challenges/01_CafeMenu/01_CafeMenu/CafeMenuRepository/obj/Debug/net6.0/CafeMenuRepo.AssemblyInfoInputs.cache
+/Users/guccigod/Documents/SD134ImmersionFT/Challenges/01_CafeMenu/01_CafeMenu/CafeMenuRepository/obj/Debug/net6.0/CafeMenuRepo.AssemblyInfo.cs
+/Users/guccigod/Documents/SD134ImmersionFT/Challenges/01_CafeMenu/01_CafeMenu/CafeMenuRepository/obj/Debug/net6.0/CafeMenuRepo.csproj.CoreCompileInputs.cache
+/Users/guccigod/Documents/SD134ImmersionFT/Challenges/01_CafeMenu/01_CafeMenu/CafeMenuRepository/obj/Debug/net6.0/CafeMenuRepo.dll
+/Users/guccigod/Documents/SD134ImmersionFT/Challenges/01_CafeMenu/01_CafeMenu/CafeMenuRepository/obj/Debug/net6.0/ref/CafeMenuRepo.dll
+/Users/guccigod/Documents/SD134ImmersionFT/Challenges/01_CafeMenu/01_CafeMenu/CafeMenuRepository/obj/Debug/net6.0/CafeMenuRepo.pdb
